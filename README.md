@@ -9,8 +9,7 @@ Apple Watch app with a iOS companion app for basic control of Xiaomi Vacuum and 
 > Does not use any dependencies
 
 ## Preview
-
-![watch](https://user-images.githubusercontent.com/5616486/110290787-d909a300-7ff3-11eb-8343-0d1c3062fa54.mp4)
+https://user-images.githubusercontent.com/5616486/110290787-d909a300-7ff3-11eb-8343-0d1c3062fa54.mp4
 
 ## Notes
 
